@@ -95,23 +95,3 @@ class _RootPageState extends State<RootPage> {
 
 
 }
-
-
-
-/*backgroundColor: Colors.black,
-      bottomNavigationBar: BottomNavigationBar(
-        backgroundColor: Colors.black,
-        currentIndex: 0,
-        items: [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.home, color: Colors.white,),
-            title: Text("Início",style: TextStyle(color: Colors.white)),
-          ),
-          BottomNavigationBarItem(
-              icon: Icon(Icons.search, color: Colors.white,),
-            title: Text("Pesquisar", style: TextStyle(color: Colors.white)),
-          ),
-          BottomNavigationBarItem(
-              icon: Icon(Icons))
-        ],
-      ),*/
